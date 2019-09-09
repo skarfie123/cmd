@@ -1,2 +1,1 @@
-@echo off
-kubectl port-forward deploy/legacy-nugraph-comparer 1234:1234 8082:8082
+kubectl port-forward deploy/routings-comparer 1234:1234 8082:8082 1111:8081
