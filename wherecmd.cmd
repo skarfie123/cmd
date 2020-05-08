@@ -1,2 +1,2 @@
 @echo off
-explorer "C:\Users\rahul\Documents\github\cmd"
+explorer "%GITHUB%cmd"
