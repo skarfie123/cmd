@@ -1,0 +1,1 @@
+%SYSTEMROOT%\system32\wscript.exe "C:\Octave\Octave-5.1.0.0\octave.vbs" --no-gui
