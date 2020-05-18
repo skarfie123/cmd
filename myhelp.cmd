@@ -1,2 +1,2 @@
 @echo off
-dir /B C:\Users\rahul\Documents\github\cmd
+dir /B %GITHUB%cmd
