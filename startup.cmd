@@ -1,2 +1,2 @@
 @echo off
-shell:Startup
+start shell:Startup
