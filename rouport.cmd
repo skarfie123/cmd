@@ -1,1 +1,0 @@
-kubectl port-forward deploy/router 8000:8081

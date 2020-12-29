@@ -1,1 +1,0 @@
-kubectl port-forward deploy/routings-comparer 1234:1234 8082:8082 1111:8081

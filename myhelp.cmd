@@ -1,2 +1,2 @@
 @echo off
-dir /B %GITHUB%cmd
+dir /B %GITHUB%\cmd
