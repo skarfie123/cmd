@@ -1,2 +1,2 @@
 @echo off
-start notepad %GITHUB%\cmd\%~1.cmd
+start notepad %GITHUB%\cmd\%*.cmd

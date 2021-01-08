@@ -1,2 +1,2 @@
 @echo off
-jupyter nbconvert Jupyter\ "%~1" --to slides --post serve
+jupyter nbconvert Jupyter\ %* --to slides --post serve

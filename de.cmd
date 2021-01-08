@@ -1,2 +1,2 @@
 @echo off
-dep ensure -v -update %~1
+dep ensure -v -update %*

@@ -1,5 +1,5 @@
 @echo off
-kubectl get pods | findstr %~1 > tmpFile 
+kubectl get pods | findstr %* > tmpFile 
 set /p var= < tmpFile 
 del tmpFile 
 

@@ -1,2 +1,2 @@
 @echo off
-start notepad++ %~1
+start notepad++ %*

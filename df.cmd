@@ -1,2 +1,2 @@
 @echo off
-docformatter -i %~1
+docformatter -i %*

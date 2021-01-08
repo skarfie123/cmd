@@ -1,1 +1,1 @@
-ipconfig %~1
+ipconfig %*

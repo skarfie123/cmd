@@ -1,2 +1,2 @@
 @echo off
-git checkout -b %~1
+git checkout -b %*

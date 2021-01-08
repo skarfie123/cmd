@@ -1,2 +1,2 @@
 @echo off
-dotnet watch run %~1
+dotnet watch run %*
