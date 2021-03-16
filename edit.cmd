@@ -1,2 +1,2 @@
 @echo off
-npp %GITHUB%\cmd\%*.cmd
+npp %GITHUB%\cmd\%1.cmd
