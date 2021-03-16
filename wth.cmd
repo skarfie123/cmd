@@ -1,2 +1,2 @@
 @echo off
-wt nt -d .
+wt -w 0 nt -d .
