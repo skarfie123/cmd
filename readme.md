@@ -69,6 +69,7 @@ A collection of my cmd scripts
 
 ## Meta
 
+- `check.cmd` - checks for missing readme entries
 - `edit.cmd` - edit/add cmd script
 - `helpcmd.cmd` - list available scripts from cmd folder
 - `wherecmd.cmd` - open cmd folder in wt
