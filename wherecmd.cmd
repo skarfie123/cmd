@@ -1,2 +1,2 @@
 @echo off
-"C:\Program Files (x86)\FreeCommander XE\FreeCommander.exe" /C /T /L="%GITHUB%\cmd"
+wt -w 0 nt -d %GITHUB%\cmd

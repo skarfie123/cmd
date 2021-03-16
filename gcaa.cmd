@@ -1,3 +1,3 @@
 @echo off
-git add -A
-git commit -a -m %*
+call gaa.cmd
+call gc.cmd %*
