@@ -1,3 +1,3 @@
 @echo off
-call gaa.cmd
-call gc.cmd %*
+call gaa
+call gc %*

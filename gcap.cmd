@@ -1,2 +1,3 @@
 @echo off
-gca %* & gpu
+call gca %*
+call gpu
