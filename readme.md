@@ -2,6 +2,8 @@
 
 A collection of my cmd scripts
 
+This folder needs to be in PATH so you can access the scripts from anywhere.
+
 ## Git Aliases
 
 - `ga.cmd` - git add
@@ -42,6 +44,7 @@ A collection of my cmd scripts
 ## Shortcuts
 
 - `fch.cmd` - FreeCommander here
+- `home.cmd` - cd to home folder
 - `jl.cmd` - JupyterLab
 - `ml.cmd` - Matlab
 - `octave-cli.cmd` - octave-cli
