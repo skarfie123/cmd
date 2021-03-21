@@ -17,6 +17,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `gch.cmd` - git checkout
 - `gchm.cmd` - git checkout main
 - `gcl.cmd` - git clone
+- `gcm.cmd` - git commit amend
 - `gcp.cmd` - `gc` then push
 - `gd.cmd` - git diff
 - `gl.cmd` - git log
@@ -65,6 +66,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 ## Tools
 
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
+- `el.cmd` - print errorlevel
 - `kubelog.cmd` - kubernetes log by pod name
 - `ramTotal.cmd` - count total RAM
 - `restartExplorer.cmd` - restart explorer.exe
@@ -73,6 +75,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 ## Meta
 
 - `check.cmd` - checks for missing readme entries
+- `checkm.cmd` - `check` with `more`
 - `edit.cmd` - edit/add cmd script
 - `helpcmd.cmd` - list available scripts from cmd folder
 - `wherecmd.cmd` - open cmd folder in wt
