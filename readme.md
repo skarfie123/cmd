@@ -9,6 +9,9 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ga.cmd` - git add
 - `gaa.cmd` - git add all
 - `gb.cmd` - git branch
+- `gbd.cmd` - git branch delete
+- `gbdd.cmd` - git branch DELETE
+- `gbl.cmd` - git branch list
 - `gc.cmd` - git commit
 - `gca.cmd` - git commit all (adds all tracked)
 - `gcaa.cmd` - git commit add all (adds all tracked and untracked)
