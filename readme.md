@@ -27,7 +27,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `gp.cmd` - git pull
 - `gpu.cmd` - git push
 - `gs.cmd` - git status
-- `gsa.cmd` - git status all (gs in each subfolder)
+- `gsa.cmd` - git status all (`gs` in each subfolder)
 
 ## Other Aliases
 
@@ -73,6 +73,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `kubelog.cmd` - kubernetes log by pod name
 - `ramTotal.cmd` - count total RAM
 - `restartExplorer.cmd` - restart explorer.exe
+- `testn.cmd` - run a command n times and alert if it errors
 - `timeit.cmd` - time a command
 
 ## Meta
