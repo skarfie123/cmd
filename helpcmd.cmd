@@ -1,7 +1,7 @@
 @echo off
-IF "%1"=="" GOTO none 
+IF "%1"=="" GOTO none
 IF "%1"==".exe" GOTO exe
-   more %GITHUB%\cmd\%1.cmd
+   type %GITHUB%\cmd\readme.md | find "`%1.cmd`"
 goto:eof 
  
 :none
