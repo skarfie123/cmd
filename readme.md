@@ -32,6 +32,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 ## Other Aliases
 
 - `clear.cmd` - cls
+- `cp.cmd` - copy
 - `de.cmd` - dep ensure
 - `df.cmd` - docformatter
 - `dr.cmd` - dotnet run
@@ -40,6 +41,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ifconfig.cmd` - ipconfig
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir
+- `mv.cmd` - move
 - `npp.cmd` - Notepad++
 - `tf.cmd` - task find
 - `tk.cmd` - task kill
@@ -71,6 +73,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
 - `el.cmd` - print errorlevel
 - `kubelog.cmd` - kubernetes log by pod name
+- `pipUninstallAll.cmd` - uninstall all user pip modules
 - `ramTotal.cmd` - count total RAM
 - `restartExplorer.cmd` - restart explorer.exe
 - `testn.cmd` - run a command n times and alert if it errors
@@ -78,8 +81,9 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Meta
 
-- `check.cmd` - checks for missing readme entries
-- `checkm.cmd` - `check` with `more`
+- `check.cmd` - `checkFull` with `more`
+- `checkFull.cmd` - checks for missing readme entries
 - `edit.cmd` - edit/add cmd script
-- `helpcmd.cmd` - list available scripts from cmd folder
+- `helpcmd.cmd` - list available scripts from cmd folder or show readme entry
+- `morecmd.cmd` - show script
 - `wherecmd.cmd` - open cmd folder in wt
