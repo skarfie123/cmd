@@ -7,3 +7,4 @@ for /f "usebackq tokens=1-6 delims=,K" %%a in ("chrome.csv") do (
 set /a chromeTotal=chromeTotal/1000
 echo %chromeTotal% MB
 del chrome.csv
+pause
