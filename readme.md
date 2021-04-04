@@ -63,6 +63,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 ## venv
 
 - `helpvenv.cmd` - list available venvs / show venv description
+- `delvenv.cmd` - delete a venv
 - `venv.cmd` - create venv in venv folder
 - `venva.cmd` - venv activate
 - `venvah.cmd` - venv activate here
@@ -73,6 +74,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
 - `el.cmd` - print errorlevel
+- `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
 - `pipUninstallAll.cmd` - uninstall all user pip modules
 - `ramTotal.cmd` - count total RAM
