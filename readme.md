@@ -62,9 +62,10 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## venv
 
-- `helpvenv.cmd` - list available venvs
+- `helpvenv.cmd` - list available venvs / show venv description
 - `venv.cmd` - create venv in venv folder
 - `venva.cmd` - venv activate
+- `venvah.cmd` - venv activate here
 - `venvh.cmd` - create venv here
 - `wherevenv.cmd` - open venv folder in wt
 

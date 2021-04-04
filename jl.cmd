@@ -1,1 +1,1 @@
-python -m jupyterlab
+py -m jupyterlab
