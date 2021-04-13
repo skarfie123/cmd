@@ -41,11 +41,14 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ifconfig.cmd` - ipconfig
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir
+- `mdd.cmd` - [MarkdownDiary](https://github.com/skarfie123/MarkdownDiary)
 - `mv.cmd` - move
-- `npp.cmd` - Notepad++
+- `npp.cmd` - [Notepad++](https://notepad-plus-plus.org/)
+- `pt.cmd` - [pdfTools](https://github.com/skarfie123/pdfTools)
 - `tf.cmd` - task find
 - `tk.cmd` - task kill
 - `tkp.cmd` - task kill by PID
+- `ydl.cmd` - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
 ## Shortcuts
 
