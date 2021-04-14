@@ -44,6 +44,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `mdd.cmd` - [MarkdownDiary](https://github.com/skarfie123/MarkdownDiary)
 - `mv.cmd` - move
 - `npp.cmd` - [Notepad++](https://notepad-plus-plus.org/)
+- `pip.cmd` - python pip
 - `pt.cmd` - [pdfTools](https://github.com/skarfie123/pdfTools)
 - `tf.cmd` - task find
 - `tk.cmd` - task kill
@@ -52,8 +53,10 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Shortcuts
 
-- `fch.cmd` - FreeCommander here
+- `fe.cmd` - file explorer
+- `feh.cmd` - file explorer here
 - `home.cmd` - cd to home folder
+- `ipy.cmd` - interactive python
 - `jl.cmd` - JupyterLab
 - `ml.cmd` - Matlab
 - `octave-cli.cmd` - octave-cli
