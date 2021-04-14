@@ -1,2 +1,2 @@
 @echo off
-start shell:Startup
+fe %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\
