@@ -50,6 +50,8 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `tk.cmd` - task kill
 - `tkp.cmd` - task kill by PID
 - `ydl.cmd` - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- `ydldesc.cmd` - ydl video description
+- `ydlmp3.cmd` - ydl as mp3
 
 ## Shortcuts
 
