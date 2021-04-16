@@ -38,6 +38,9 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `dr.cmd` - dotnet run
 - `dwr.cmd` - dotnet watch run
 - `e.cmd` - exit
+- `ffm.cmd` - ffmpeg
+- `ffp.cmd` - ffprobe
+- `ffpl.cmd` - ffplay
 - `ifconfig.cmd` - ipconfig
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir
@@ -50,8 +53,6 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `tk.cmd` - task kill
 - `tkp.cmd` - task kill by PID
 - `ydl.cmd` - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-- `ydldesc.cmd` - ydl video description
-- `ydlmp3.cmd` - ydl as mp3
 
 ## Shortcuts
 
@@ -85,11 +86,15 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `el.cmd` - print errorlevel
 - `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
+- `mp3.cmd` - convert to mp3
+- `mp4.cmd` - convert to mp4
 - `pipUninstallAll.cmd` - uninstall all user pip modules
 - `ramTotal.cmd` - count total RAM (for all or for specified)
 - `restartExplorer.cmd` - restart explorer.exe
 - `testn.cmd` - run a command n times and alert if it errors
 - `timeit.cmd` - time a command
+- `ydldesc.cmd` - ydl video description
+- `ydlmp3.cmd` - ydl as mp3
 
 ## Meta
 
