@@ -78,12 +78,13 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Tools
 
+- `bell.cmd` - make a sound
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
 - `el.cmd` - print errorlevel
 - `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
 - `pipUninstallAll.cmd` - uninstall all user pip modules
-- `ramTotal.cmd` - count total RAM
+- `ramTotal.cmd` - count total RAM (for all or for specified)
 - `restartExplorer.cmd` - restart explorer.exe
 - `testn.cmd` - run a command n times and alert if it errors
 - `timeit.cmd` - time a command
