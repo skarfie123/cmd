@@ -83,6 +83,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 - `bell.cmd` - make a sound
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
+- `ejectFailed.cmd` - print event(s) corresponding to failed ejection(s)
 - `el.cmd` - print errorlevel
 - `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
