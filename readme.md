@@ -46,6 +46,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ls.cmd` - dir
 - `mdd.cmd` - [MarkdownDiary](https://github.com/skarfie123/MarkdownDiary)
 - `mv.cmd` - move
+- `np.cmd` - notepad
 - `npp.cmd` - [Notepad++](https://notepad-plus-plus.org/)
 - `pip.cmd` - python pip
 - `pt.cmd` - [pdfTools](https://github.com/skarfie123/pdfTools)
