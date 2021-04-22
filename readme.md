@@ -45,6 +45,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir
 - `mdd.cmd` - [MarkdownDiary](https://github.com/skarfie123/MarkdownDiary)
+- `m.cmd` - more
 - `mv.cmd` - move
 - `np.cmd` - notepad
 - `npp.cmd` - [Notepad++](https://notepad-plus-plus.org/)
