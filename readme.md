@@ -58,6 +58,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Shortcuts
 
+- `chromeExt.cmd` - open chrome extensions folder
 - `fe.cmd` - file explorer
 - `feh.cmd` - file explorer here
 - `home.cmd` - cd to home folder
