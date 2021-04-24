@@ -10,7 +10,7 @@ echo [92m%positive%[0m - [91m%negative%[0m
     for /f "tokens=*" %%b in ('type %GITHUB%\cmd\readme.md ^| find "`%1`" /C') do set count=%%b
     if %count%==0 (
         set /a negative=negative+1
-        echo [91m%1[0m & exit /b 0
+        echo [91m%1[0m
     ) else (
         set /a positive=positive+1
     )

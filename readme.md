@@ -31,6 +31,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Other Aliases
 
+- `b.cmd` - `bell`
 - `clear.cmd` - cls
 - `cp.cmd` - copy
 - `de.cmd` - dep ensure
