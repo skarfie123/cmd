@@ -106,7 +106,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 - `check.cmd` - `checkFull` with `more`
 - `checkFull.cmd` - checks for missing readme entries
-- `edit.cmd` - edit/add cmd script
+- `edit.cmd` - edit/add cmd script / edit whole repo
 - `helpcmd.cmd` - list available scripts from cmd folder or show readme entry
 - `morecmd.cmd` - show script
 - `wherecmd.cmd` - open cmd folder in wt
