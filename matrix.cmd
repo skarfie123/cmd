@@ -1,6 +1,14 @@
 @echo off
-color 0a
-:top
-echo %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1% %random:~-1%
-ping -n 25 500.0.0.1>nul
-goto top
+setlocal ENABLEDELAYEDEXPANSION
+
+FOR /F "delims=:, tokens=2" %%a IN ('mode ^| find "Columns"') DO (
+    set size=%%a
+)
+
+:loop
+    set str=
+    FOR /L %%i IN (2, 2, %size%) DO (
+        set str=!random:~-1! !str!
+    )
+    echo [92m%str%[0m
+goto loop

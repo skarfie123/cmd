@@ -93,6 +93,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `el.cmd` - print errorlevel
 - `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
+- `matrix.cmd` - digital rain
 - `mp3.cmd` - convert to mp3
 - `mp4.cmd` - convert to mp4
 - `pipUninstallAll.cmd` - uninstall all user pip modules
