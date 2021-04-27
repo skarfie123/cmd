@@ -88,6 +88,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ahk.cmd` - edit/add ahk script / edit whole repo
 - `bell.cmd` - make a sound
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
+- `col.cmd` - colours reference
 - `count.cmd` - count output lines
 - `ejectFailed.cmd` - print event(s) corresponding to failed ejection(s)
 - `el.cmd` - print errorlevel
