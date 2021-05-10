@@ -36,7 +36,14 @@ echo !str![0m
 
 echo.
 echo %colour1%---%colour2% ESC[1;XXm %colour1%---[0m
-@REM bold foreground
+@REM bold dark foreground
+set str=
+for /l %%c in (30,1,37) do (
+    set label=  %%c
+    set str=!str![1;%%cm !label:~-3! 
+)
+echo !str![0m
+@REM bold bright foreground
 set str=
 for /l %%c in (90,1,97) do (
     set label=  %%c
