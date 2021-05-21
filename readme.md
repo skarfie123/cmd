@@ -70,6 +70,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `octave.cmd` - octave
 - `startanaconda.cmd` - start anaconda prompt
 - `startup.cmd` - open startup folder
+- `taskbar.cmd` - open taskbar folder
 - `vsc.cmd` - VS Code here
 - `wth.cmd` - Windows Terminal here
 
