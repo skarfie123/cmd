@@ -94,6 +94,8 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `count.cmd` - count output lines
 - `ejectFailed.cmd` - print event(s) corresponding to failed ejection(s)
 - `el.cmd` - print errorlevel
+- `extract.cmd` - extract archive contents in new folder(s)
+- `extracth.cmd` - extract archive contents here
 - `helloWorld.cmd` - 👋
 - `kubelog.cmd` - kubernetes log by pod name
 - `matrix.cmd` - digital rain
@@ -106,6 +108,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `timeit.cmd` - time a command
 - `ydldesc.cmd` - ydl video description
 - `ydlmp3.cmd` - ydl as mp3
+- `zip.cmd` - compress a file or folder
 
 ## Meta
 
