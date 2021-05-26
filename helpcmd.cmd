@@ -1,7 +1,7 @@
 @echo off
 IF "%1"=="" GOTO none
 IF "%1"==".exe" GOTO exe
-   type %GITHUB%\cmd\readme.md | find "`%1.cmd`"
+   type %GITHUB%\cmd\readme.md | findstr "\<`%1[a-z]*\.cmd`"
 goto:eof 
  
 :none
