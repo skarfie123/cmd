@@ -1,2 +1,2 @@
 @echo off
-checkFull | more
+m checkFull
