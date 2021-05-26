@@ -1,2 +1,2 @@
 @echo off
-fe %cd%
+fe "%cd%"
