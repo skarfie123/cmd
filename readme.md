@@ -110,6 +110,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ydldesc.cmd` - ydl video description
 - `ydlmp3.cmd` - ydl as mp3
 - `zip.cmd` - compress a file or folder
+- `ziplist.cmd` - list the top level files and directories in an archive
 
 ## Meta
 
