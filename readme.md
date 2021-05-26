@@ -106,6 +106,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `restartExplorer.cmd` - restart explorer.exe
 - `testn.cmd` - run a command n times and alert if it errors
 - `timeit.cmd` - time a command
+- `touch.cmd` - create empty file
 - `ydldesc.cmd` - ydl video description
 - `ydlmp3.cmd` - ydl as mp3
 - `zip.cmd` - compress a file or folder
