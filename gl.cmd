@@ -1,2 +1,2 @@
 @echo off
-git log
+git log %*
