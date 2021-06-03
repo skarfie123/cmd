@@ -51,6 +51,8 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `mv.cmd` - move
 - `np.cmd` - notepad
 - `npp.cmd` - [Notepad++](https://notepad-plus-plus.org/)
+- `pdf.cmd` - pdf reader
+- `pdn.cmd` - [paint.net](https://www.getpaint.net/)
 - `pip.cmd` - python pip
 - `pt.cmd` - [pdfTools](https://github.com/skarfie123/pdfTools)
 - `tf.cmd` - task find
@@ -64,6 +66,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `fe.cmd` - file explorer
 - `feh.cmd` - file explorer here
 - `home.cmd` - cd to home folder
+- `gh.cmd` - cd to GitHub folder
 - `ipy.cmd` - interactive python
 - `jl.cmd` - JupyterLab
 - `ml.cmd` - Matlab
