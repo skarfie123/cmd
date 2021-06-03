@@ -1,2 +1,2 @@
 @echo off
-tasklist | find "%*"
+tasklist | findstr /I %*
