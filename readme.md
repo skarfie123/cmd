@@ -45,6 +45,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ifconfig.cmd` - ipconfig
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir
+- `lst.cmd` - dir by type
 - `mdd.cmd` - [MarkdownDiary](https://github.com/skarfie123/MarkdownDiary)
 - `m.cmd` - more
 - `mv.cmd` - move
