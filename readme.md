@@ -77,6 +77,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `taskbar.cmd` - open taskbar folder
 - `vsc.cmd` - VS Code here
 - `wth.cmd` - Windows Terminal here
+- `wtq.cmd` - Windows Terminal Quake here
 
 ## venv
 
