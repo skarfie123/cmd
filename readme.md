@@ -54,6 +54,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `pdf.cmd` - pdf reader
 - `pdn.cmd` - [paint.net](https://www.getpaint.net/)
 - `pip.cmd` - python pip
+- `piv.cmd` - [PythonImageViewer](https://github.com/skarfie123/PythonImageViewer)
 - `pt.cmd` - [pdfTools](https://github.com/skarfie123/pdfTools)
 - `tf.cmd` - task find
 - `tk.cmd` - task kill
