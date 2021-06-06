@@ -12,9 +12,9 @@ echo        R:::::RRRRRR::::R    P::::PPPPPPPPC:::::C
 echo       R:::::R     R::::R    P::::P       C:::::C              
 echo      R:::::R      R::::R    P::::P       C:::::C              
 echo     R:::::R       R::::R    P::::P        C:::::C         CCCC
-echo    R:::::R        R::::R    P:::::PP       C:::::CCCCCCCCCC::C
-echo   R:::::R         R:::::R  P:::::::P        CC:::::::::::::::C
-echo RR::::::R         R::::::RP::::::::P          CCC::::::::::CC
-echo RRRRRRRRR         RRRRRRRRPPPPPPPPPP             CCCCCCCCCC
+echo    R:::::R        R::::R    P::::P         C:::::CCCCCCCCCC::C
+echo   R:::::R         R:::::R  P::::::P         CC:::::::::::::::C
+echo RR::::::R         R::::::RP::::::::PP         CCC::::::::::CC
+echo RRRRRRRRR         RRRRRRRRPPPPPPPPPPP            CCCCCCCCCC
 echo.
 echo                       Rahul Pai Creations
