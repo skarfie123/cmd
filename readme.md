@@ -113,6 +113,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `pipUninstallAll.cmd` - uninstall all user pip modules
 - `ramTotal.cmd` - count total RAM (for all or for specified)
 - `restartExplorer.cmd` - restart explorer.exe
+- `sleep.cmd` - sleep for seconds
 - `splash.cmd` - clear screen and print logo
 - `testn.cmd` - run a command n times and alert if it errors
 - `timeit.cmd` - time a command
