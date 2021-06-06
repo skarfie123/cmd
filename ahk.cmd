@@ -1,7 +1,7 @@
 @echo off
 if "%~1"=="" (
     code %GITHUB%\AHK
-    exit /b 0
+    GOTO:EOF
 )
 
 if not exist %GITHUB%\AHK\%1.ahk (
