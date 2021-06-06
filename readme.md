@@ -64,6 +64,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 - `chromeExt.cmd` - open chrome extensions folder
 - `dl.cmd` - cd to Downloads folder
+- `eh.cmd` - explorer here
 - `fe.cmd` - file explorer
 - `feh.cmd` - file explorer here
 - `home.cmd` - cd to home folder
