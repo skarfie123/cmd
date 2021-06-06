@@ -95,6 +95,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 - `admin.cmd` - check if admin
 - `ahk.cmd` - edit/add ahk script / edit whole repo
+- `boot.cmd` - boot script (opens wt with a few tasks)
 - `bell.cmd` - make a sound
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
 - `col.cmd` - colours reference
