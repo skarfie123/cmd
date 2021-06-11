@@ -42,6 +42,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ffm.cmd` - ffmpeg
 - `ffp.cmd` - ffprobe
 - `ffpl.cmd` - ffplay
+- `foc.cmd` - [FolderCompare](https://github.com/skarfie123/FolderCompare)
 - `ifconfig.cmd` - ipconfig
 - `js.cmd`-  Jupyter Slides
 - `ls.cmd` - dir

@@ -1,2 +1,2 @@
 @echo off 
-PythonImageViewer %*
+PythonImageViewer.exe %*

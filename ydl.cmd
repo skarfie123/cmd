@@ -1,2 +1,2 @@
 @echo off
-youtube-dl %*
+youtube-dl.exe %*

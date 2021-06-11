@@ -4,4 +4,6 @@ if "%~1"=="" (
     exit /b 1
 )
 
+@REM TODO accept %2 for name and type
+
 7z a "%~n1.zip" %1
