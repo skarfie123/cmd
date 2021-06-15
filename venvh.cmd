@@ -8,3 +8,5 @@ if "%2"=="" (
     exit /b 1
 )
 py -%1 -m venv %2
+
+call venvah %2
