@@ -34,6 +34,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `b.cmd` - `bell`
 - `clear.cmd` - cls
 - `cp.cmd` - copy
+- `cra.cmd` - create-react-app
 - `de.cmd` - dep ensure
 - `df.cmd` - docformatter
 - `dr.cmd` - dotnet run
