@@ -1,2 +1,2 @@
 @echo off
-m checkFull
+m checkFull cmd
