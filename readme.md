@@ -100,6 +100,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `ahk.cmd` - edit/add ahk script / edit whole repo
 - `boot.cmd` - boot script (opens wt with a few tasks)
 - `bell.cmd` - make a sound
+- `checkAHK.cmd` - `checkFull` ahk
 - `chromeTotal.cmd` - count total RAM used by chrome.exe instances
 - `col.cmd` - colours reference
 - `count.cmd` - count output lines
@@ -127,7 +128,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 
 ## Meta
 
-- `check.cmd` - `checkFull` with `more`
+- `check.cmd` - `checkFull` cmd
 - `checkFull.cmd` - checks for missing readme entries
 - `edit.cmd` - edit/add cmd script / edit whole repo
 - `helpcmd.cmd` - search readme
