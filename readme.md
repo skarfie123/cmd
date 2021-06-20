@@ -22,6 +22,7 @@ This folder needs to be in PATH so you can access the scripts from anywhere.
 - `gcl.cmd` - git clone
 - `gcm.cmd` - git commit amend
 - `gcp.cmd` - `gc` then push
+- `gcu.cmd` - git commit undo
 - `gd.cmd` - git diff
 - `gl.cmd` - git log
 - `gp.cmd` - git pull
