@@ -4,6 +4,8 @@ A collection of my cmd scripts
 
 This folder needs to be in PATH so you can access the scripts from anywhere.
 
+> Note: this repo is now archived because I am migrating to [PowerShell](https://github.com/skarfie123/pwsh)
+
 ## Git Aliases
 
 - `ga.cmd` - git add
